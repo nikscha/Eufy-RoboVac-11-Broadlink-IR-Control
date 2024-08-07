@@ -1,5 +1,5 @@
 # Eufy-RoboVac-11-Broadlink-IR-Control
-IR codes for the Broadlink IR blaster to control your Eufu RoboVac 11
+IR codes for the Broadlink IR blaster to control your Eufu RoboVac V11
 
 If you use this with Homeassistant, put this into   homeassistant/.storage/broadlink_remote_*_codes
 
